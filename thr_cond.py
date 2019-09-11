@@ -1,7 +1,7 @@
 import threading
 
 def faza ():
-    return conta == 0
+cd    return conta == 0
 
 def fazb ():
     return contb == 1
